@@ -1,0 +1,13 @@
+body 
+{
+    background-color: black;
+    background-image:url('imagens/fundosagitario.jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
