@@ -1,7 +1,7 @@
 body 
 {
     background-color: black;
-    background-image:url('imagens/fundosagitario.jpeg');
+    background-image:url('imagens/sagittarius-constellation-on-a-beautiful-starry-night-background_htd18zz2_thumbnail-full09.png');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -10,4 +10,18 @@ body
 
 html {
     scroll-behavior: smooth;
+}
+
+h1{
+   background-color:darkslateblue;
+   width: 360px;
+   color:rgb(0, 183, 255)
+
+}
+
+main{
+  font-size: 20px;
+  background-color:darkslateblue;
+  width: 200px;
+  color:rgb(0, 183, 255)
 }

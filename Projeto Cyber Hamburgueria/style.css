@@ -17,9 +17,25 @@
      
    h2 {
       color: #ff1c99;
-      
+      background-color: #340ca3da;
+      width: 730px;
    } 
 
+   h3{
+      color: #ff1c99;
+      background-color: #340ca3da;
+      width: 300px;
+      
+   }
+   
+   div{
+      color: #ff1c99;
+      background-color: #340ca3da;
+      width: 200px;
+      font-size: 20px;
+
+   }
+   
 
    a{
       color: rgb(255, 0, 191);
@@ -28,3 +44,4 @@
    html {
       scroll-behavior: smooth;
   }
+  
